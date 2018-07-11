@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.html.haml set filetype=slaml
+au BufNewFile,BufRead *.html.haml set filetype=haml
